@@ -14,7 +14,7 @@ class Dog:
 
 
 # The program should instantiate two objects from this class and assign data to its members. 
-dog1 = Dog("Buddy", "Labrador", 3)
+dog1 = Dog("Buddy", "Husky", 3)
 dog2 = Dog("Daisy", "Beagle", 5)
 
 # The program should then output the data from each object and the oldest dog should woof via a class method.
